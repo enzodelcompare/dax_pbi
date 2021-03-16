@@ -15,8 +15,6 @@
 <p>
   <h1>
     Power BI & Linguagem DAX
-    <a href="https://www.datascienceacademy.com.br/course?courseid=analise-de-dados-com-r">
-      <img src="https://img.shields.io/badge/curso-dsa-green">
     </a>
   </h1>
 </p>
