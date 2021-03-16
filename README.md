@@ -25,7 +25,7 @@
 
 Com esse repositório, irei demostrar meus conhecimentos em **Power BI** e **Linguagem DAX**
 
-Trabalho a mais de um ano e meio com o Power BI. Uma ferramenta incrível que facilitou muito a criação de relatórios e dashbords.
+Por favor, se curtirem o conteúdo, deixem uma ⭐️
 
 <br>
 
